@@ -1,0 +1,11 @@
+log_entry,log_level
+17/03/29 10:03:23 INFO executor.Executor: Finished task 16.0 in stage 4.0 (TID 77). 2851 bytes result sent to driver,INFO
+"17/03/29 10:11:17 INFO spark.MapOutputTrackerWorker: Don't have map outputs for shuffle 1, fetching them",INFO
+"17/03/29 09:55:34 INFO spark.SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",INFO
+17/03/29 10:03:56 INFO storage.BlockManagerMaster: Registered BlockManager,INFO
+17/03/29 10:04:59 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 84,INFO
+"17/03/29 09:55:47 INFO spark.MapOutputTrackerWorker: Don't have map outputs for shuffle 1, fetching them",INFO
+17/03/29 10:11:36 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.,ERROR
+"17/03/29 10:07:36 INFO spark.SecurityManager: Changing view acls to: yarn,curi",INFO
+17/03/29 10:11:04 INFO util.Utils: Successfully started service 'sparkExecutorActorSystem' on port 46427.,INFO
+17/03/29 10:03:43 ERROR executor.CoarseGrainedExecutorBackend: Driver 10.10.34.11:48782 disassociated! Shutting down.,ERROR
